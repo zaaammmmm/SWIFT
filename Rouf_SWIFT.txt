@@ -1,0 +1,7 @@
+Nama    : Muhamad Khaiyuna Rouf
+NIM     : 25106050091
+
+FIGMA ADALAH Sebuah aplikasi desain UI dan UX berbasis web yang sangat populer.
+Aplikasi FIGMA biasa digunakan para desainer untuk membuat desain aplikasi, mockup dan prototype.
+Aplikasi ini berbasis cloud dan auto simpan(jika ada  internet).
+Salah satu tools paling populer untuk desain UI/UX.
